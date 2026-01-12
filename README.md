@@ -3,21 +3,19 @@
 
 - 🔭 I’m currently working on **AI Agents and MCP**
 
-- 🌱 I’m currently learning **AWS AI**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **GenAI, LLMs, AWS, RAG**
 
 - 📝 I regularly write articles on [https://medium.com/@varshamp0804](https://medium.com/@varshamp0804)
-
-- 💬 Ask me about **you guessed it, AI**
 
 - 📫 How to reach me **varshamp0804@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[https://medium.com/@varshamp0804/amazon-bedrock-agentcore-explained-build-deploy-operate-a-production-ready-ai-agent-b4e392acfb72]
+[https://medium.com/@varshamp0804/unlocking-generative-ai-with-amazon-bedrock-build-your-own-ai-agent-ed140cb3436a]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
