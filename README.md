@@ -13,10 +13,6 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-### Blogs posts
-[https://medium.com/@varshamp0804/amazon-bedrock-agentcore-explained-build-deploy-operate-a-production-ready-ai-agent-b4e392acfb72](blog1)
-[https://medium.com/@varshamp0804/unlocking-generative-ai-with-amazon-bedrock-build-your-own-ai-agent-ed140cb3436a](blog2)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/varshax11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="varshax11" height="30" width="40" /></a>
