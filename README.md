@@ -16,8 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/varshax11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="varshax11" height="30" width="40" /></a>
-<a href="https://twitter.com/vxxzuku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vxxzuku" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varshamp0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshamp0804" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varshamp11082004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshamp0804" height="30" width="40" /></a>
 <a href="https://medium.com/varshamp0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="varshamp0804" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/varshamp11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varshamp11" height="30" width="40" /></a>
 </p>
