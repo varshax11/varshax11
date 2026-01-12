@@ -14,8 +14,8 @@
 - ⚡ Fun fact **I think I am funny**
 
 ### Blogs posts
-[https://medium.com/@varshamp0804/amazon-bedrock-agentcore-explained-build-deploy-operate-a-production-ready-ai-agent-b4e392acfb72](blog-1)
-[https://medium.com/@varshamp0804/unlocking-generative-ai-with-amazon-bedrock-build-your-own-ai-agent-ed140cb3436a](blog-2)
+[https://medium.com/@varshamp0804/amazon-bedrock-agentcore-explained-build-deploy-operate-a-production-ready-ai-agent-b4e392acfb72](https://medium.com/@varshamp0804/amazon-bedrock-agentcore-explained-build-deploy-operate-a-production-ready-ai-agent-b4e392acfb72)
+[https://medium.com/@varshamp0804/unlocking-generative-ai-with-amazon-bedrock-build-your-own-ai-agent-ed140cb3436a](https://medium.com/@varshamp0804/unlocking-generative-ai-with-amazon-bedrock-build-your-own-ai-agent-ed140cb3436a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
