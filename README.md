@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **GenAI, LLMs, AWS, RAG**
+- 👯 I’m looking to collaborate on **GenAI, LLMs, Google Cloud AI, AWS**
 
 - 📝 I regularly write articles on [https://medium.com/@varshamp0804](https://medium.com/@varshamp0804)
 
